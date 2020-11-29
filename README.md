@@ -4,8 +4,11 @@
 
 <!-- 🔭 I’m currently working on ... -->
 ### 🌱 I’m currently learning:<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;• Full Stack Web Development<br>
+<!-- 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;• Golang<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vertica.com/wp-content/uploads/2019/07/Golang.png" alt="Golang" width="50" height="30"/><br>
+-->
 ### 🖥️ Programming languages & tools I know:<br>
   ##### &nbsp;&nbsp;&nbsp;&nbsp;• C++<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="30" height="30"/><br>
