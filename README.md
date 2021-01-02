@@ -4,6 +4,7 @@
 
 <!-- 🔭 I’m currently working on ... -->
 ### 🌱 I’m currently learning:<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;• Data Structures & Algorithms<br>
 ##### &nbsp;&nbsp;&nbsp;&nbsp;• Full Stack Web Development<br>
 <!-- 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;• Golang<br>
